@@ -1,0 +1,33 @@
+<html>
+    <head> 
+        <title>Página Principal</title>
+    
+    </head>
+  
+    <body>
+
+<h1 id="inicio">Página Principal</h1>
+<hr />
+<h2>Índice</h2>
+<ul>
+    <li><a href="http://dio.me" target="_self" title="Clique e confira"> Home DIo</a></li>
+    <li><a href="about.html" target="_self" title="Sobre"> Sobre</a></li>
+    <li><a href="texto1" target="_self" title="texto1"> Texto1</a></li>
+    <li><a href="texto2" target="_self" title="texto2"> Texto2</a></li>
+    <li><a href="texto3" target="_self" title="texto3"> Texto3</a></li>
+
+</ul>
+<hr />
+<h1 id="texto1"> Testo1</h1> 
+<small><a href="#inicio"> (Voltar)</a></small>
+
+<h1 id="texto2"> Testo2</h1> 
+<small><a href="#inicio"> (Voltar)</a></small>
+
+<h1 id="texto3"> Testo3</h1> 
+<small><a href="#inicio"> (Voltar)</a></small>
+
+      
+    </body> #corpo
+
+</html>
